@@ -6,6 +6,7 @@ Customer analytics is defined as the process by which customer behavior data is 
 
 Customer analytics decodes customer behavior data into actionable insights. Companies make use of it to make decisions on pricing, marketing, promotion etc.
 According to McKinsey, “Companies that use customer analytics comprehensively report outstripping their competition in terms of profit almost twice as often as companies that do not.” A good consumer analytics platform can help your team increase:
+ 
  -Mobile adoption
  
  -Customer retention
@@ -16,6 +17,7 @@ According to McKinsey, “Companies that use customer analytics comprehensively 
  
 
 With customer analytics, you can:
+
 -Increase response ratescustomer loyalty and, ultimately, ROI by contacting the right customers with highly relevant offers and messages.
 
 -Reduce campaign costs by targeting those customers most likely to respond.
