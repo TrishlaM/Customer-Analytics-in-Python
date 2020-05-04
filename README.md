@@ -25,3 +25,13 @@ With customer analytics, you can:
 -Decrease attrition by accurately predicting customers most likely to leave and developing the right proactive campaigns to retain them.
 
 -Deliver the right message by segmenting customers more effectively and better understanding target populations.
+
+# Aspects of customer analytics covered in this project
+
+1. RFM Analysis
+
+2. Customer Segmentation
+
+3. Customer Lifetime Value Prediction
+
+4. Churn Prediction
